@@ -3,7 +3,7 @@ import { Table, Text } from '@mantine/core'
 
 import RecordRowActionMenu from './RecordRowActionMenu'
 
-import styles from './index.module.scss'
+import styles from './index.module.css'
 
 import type { Record } from '@/lib/types'
 import type { RecordsPage } from '@/lib/types'
